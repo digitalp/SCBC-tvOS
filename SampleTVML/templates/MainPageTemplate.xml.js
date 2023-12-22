@@ -8,17 +8,18 @@
 //
 
 
-var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
-  <document>
-    <head>
-      <style>
-         .backgroundColor {
-           background-color: #186dff; /* Light gray background */
-         }
-      <style>
-    <head>
-    <catalogTemplate> class="backgroundColor">
-      <banner>
+var Template = function() { 
+    return `<?xml version="1.0" encoding="UTF-8" ?>
+    <document>
+      <head>
+        <style>
+          .backgroundColor {
+            background-color: #186dff; /* Light gray background */
+          }
+        </style>
+      </head>
+      <catalogTemplate class="backgroundColor">
+        <banner>
         <title>SCBC Television</title>
       </banner>
       <list>
