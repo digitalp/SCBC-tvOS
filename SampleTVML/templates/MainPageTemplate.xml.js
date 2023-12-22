@@ -13,19 +13,13 @@ var Template = function() {
     <document>
       <head>
         <style>
-          .backgroundImageStyle {
-            background-image: url('${this.BASEURL}images/SCBC-Background-FullHD13.png');
-            background-size: cover; /* Cover the entire area */
-          }
-          .bannerLogo {
-            tv-tint-color: transparent; /* Remove tint to display the logo clearly */
+          .backgroundColor {
+            background-color: #f0f0f0; /* Light gray background */
           }
         </style>
       </head>
-      <catalogTemplate class="backgroundImageStyle">
+      <catalogTemplate class="backgroundColor">
         <banner>
-          <img src="${this.BASEURL}images/scbc_logo.png" class="bannerLogo" width="200" height="100" />
-        </banner>
       <list>
         <section>
       <listItemLockup>
