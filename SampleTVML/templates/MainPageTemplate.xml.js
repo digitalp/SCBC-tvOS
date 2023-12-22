@@ -14,7 +14,7 @@ var Template = function() {
       <head>
         <style>
           .backgroundColor {
-            background-color: #f0f0f0; /* Light gray background */
+            background-color: #186dff; /* Light gray background */
           }
         </style>
       </head>
