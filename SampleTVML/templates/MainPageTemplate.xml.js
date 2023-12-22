@@ -43,7 +43,7 @@ var Template = function() {
       </listItemLockup>
   
         <listItemLockup>
-          <title>Funny Videos</title>
+          <title>Ask Docta!</title>
           <decorationLabel>3</decorationLabel>
               //1. add from here
           <relatedContent>
@@ -65,7 +65,7 @@ var Template = function() {
         </listItemLockup>
   
           <listItemLockup>
-            <title>Educational Videos</title>
+            <title>Farmers Voice</title>
             <decorationLabel>4</decorationLabel>
                 //1. add from here
             <relatedContent>
@@ -84,7 +84,7 @@ var Template = function() {
           </listItemLockup>
   
             <listItemLockup>
-              <title>Anime Videos</title>
+              <title>The Great Conversation</title>
               <decorationLabel>3</decorationLabel>
                   //1. add from here
               <relatedContent>
