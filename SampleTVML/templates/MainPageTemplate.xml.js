@@ -11,7 +11,16 @@
 var Template = function() { 
     return `<?xml version="1.0" encoding="UTF-8" ?>
     <document>
-      <catalogTemplate>
+      <head>
+        <style>
+          .backgroundStyle {
+            background-image: url('${this.BASEURL}images/SCBC-Background-FullHD13.png');
+            background-size: cover;
+            background-position: center;
+          }
+        </style>
+      </head>
+      <catalogTemplate class="backgroundStyle">
           <background>
               <img src="${this.BASEURL}images/SCBC-Background-FullHD13.png"/>
           </background>
