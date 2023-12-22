@@ -150,6 +150,6 @@ var Template = function() {
   
         </section>
       </list>
-    </catalogTemplate>   
+    </catalogTemplate>
   </document>`
 }
