@@ -20,6 +20,8 @@ var Template = function() {
       </head>
       <catalogTemplate class="backgroundColor">
         <banner>
+        <title>SCBC Television</title>
+      </banner>
       <list>
         <section>
       <listItemLockup>
@@ -35,7 +37,39 @@ var Template = function() {
           </lockup>
           <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
             <img src="${this.BASEURL}images/ryan.png" width="500" height="308" />
-
+          </lockup>
+              <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
+            <img src="${this.BASEURL}images/matthijs.png" width="500" height="308" />
+          </lockup>
+          <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
+            <img src="${this.BASEURL}images/vicki.png" width="500" height="308" />
+          </lockup>
+              <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
+            <img src="${this.BASEURL}images/alexis.png" width="500" height="308" />
+              </lockup>
+          <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
+            <img src="${this.BASEURL}images/marin.png" width="500" height="308" />
+          </lockup>
+          <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
+            <img src="${this.BASEURL}images/chris.png" width="500" height="308" />
+              </lockup>
+          <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
+            <img src="${this.BASEURL}images/cesare.png" width="500" height="308" />
+          </lockup>
+          <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
+            <img src="${this.BASEURL}images/ellen.png" width="500" height="308" />
+          </lockup>
+          <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
+            <img src="${this.BASEURL}images/jake.png" width="500" height="308" />
+          </lockup>
+          <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
+            <img src="${this.BASEURL}images/kim.png" width="500" height="308" />
+          </lockup>
+              <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
+            <img src="${this.BASEURL}images/tammy.png" width="500" height="308" />
+          </lockup>
+          <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
+            <img src="${this.BASEURL}images/saul.png" width="500" height="308" />
           </lockup>
         </section>
           </grid>
@@ -43,7 +77,7 @@ var Template = function() {
       </listItemLockup>
   
         <listItemLockup>
-          <title>Ask Docta!</title>
+          <title>Funny Videos</title>
           <decorationLabel>3</decorationLabel>
               //1. add from here
           <relatedContent>
@@ -59,13 +93,14 @@ var Template = function() {
                       <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
                         <img src="${this.BASEURL}images/saul.png" width="500" height="308" />
                       </lockup>
+  
           </section>
             </grid>
           </relatedContent>
         </listItemLockup>
   
           <listItemLockup>
-            <title>Farmers Voice</title>
+            <title>Educational Videos</title>
             <decorationLabel>4</decorationLabel>
                 //1. add from here
             <relatedContent>
@@ -78,13 +113,20 @@ var Template = function() {
                       <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
                         <img src="${this.BASEURL}images/ellen.png" width="500" height="308" />
                       </lockup>
+                      <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
+                        <img src="${this.BASEURL}images/jake.png" width="500" height="308" />
+                      </lockup>
+                      <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
+                        <img src="${this.BASEURL}images/kim.png" width="500" height="308" />
+                      </lockup>
+    
             </section>
               </grid>
             </relatedContent>
           </listItemLockup>
   
             <listItemLockup>
-              <title>The Great Conversation</title>
+              <title>Anime Videos</title>
               <decorationLabel>3</decorationLabel>
                   //1. add from here
               <relatedContent>
@@ -111,6 +153,3 @@ var Template = function() {
     </catalogTemplate>
   </document>`
 }
-
-
-
