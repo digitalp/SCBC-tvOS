@@ -41,39 +41,7 @@ var Template = function() {
           </lockup>
           <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
             <img src="${this.BASEURL}images/ryan.png" width="500" height="308" />
-          </lockup>
-              <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
-            <img src="${this.BASEURL}images/matthijs.png" width="500" height="308" />
-          </lockup>
-          <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
-            <img src="${this.BASEURL}images/vicki.png" width="500" height="308" />
-          </lockup>
-              <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
-            <img src="${this.BASEURL}images/alexis.png" width="500" height="308" />
-              </lockup>
-          <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
-            <img src="${this.BASEURL}images/marin.png" width="500" height="308" />
-          </lockup>
-          <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
-            <img src="${this.BASEURL}images/chris.png" width="500" height="308" />
-              </lockup>
-          <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
-            <img src="${this.BASEURL}images/cesare.png" width="500" height="308" />
-          </lockup>
-          <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
-            <img src="${this.BASEURL}images/ellen.png" width="500" height="308" />
-          </lockup>
-          <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
-            <img src="${this.BASEURL}images/jake.png" width="500" height="308" />
-          </lockup>
-          <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
-            <img src="${this.BASEURL}images/kim.png" width="500" height="308" />
-          </lockup>
-              <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
-            <img src="${this.BASEURL}images/tammy.png" width="500" height="308" />
-          </lockup>
-          <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
-            <img src="${this.BASEURL}images/saul.png" width="500" height="308" />
+
           </lockup>
         </section>
           </grid>
@@ -97,7 +65,6 @@ var Template = function() {
                       <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
                         <img src="${this.BASEURL}images/saul.png" width="500" height="308" />
                       </lockup>
-  
           </section>
             </grid>
           </relatedContent>
@@ -117,13 +84,6 @@ var Template = function() {
                       <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
                         <img src="${this.BASEURL}images/ellen.png" width="500" height="308" />
                       </lockup>
-                      <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
-                        <img src="${this.BASEURL}images/jake.png" width="500" height="308" />
-                      </lockup>
-                      <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
-                        <img src="${this.BASEURL}images/kim.png" width="500" height="308" />
-                      </lockup>
-    
             </section>
               </grid>
             </relatedContent>
