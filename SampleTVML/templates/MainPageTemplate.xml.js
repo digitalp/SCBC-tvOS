@@ -84,7 +84,7 @@ var Template = function() {
                   <section>
                         //2
                                   <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
-                                    <img src="${this.BASEURL}images/vicki.png" width="500" height="308" />
+                                    <img src="${this.BASEURL}images/scbcthumb.png" width="500" height="308" />
                                   </lockup>
       
               </section>
