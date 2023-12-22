@@ -10,7 +10,14 @@
 
 var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
   <document>
-    <catalogTemplate>
+    <head>
+      <style>
+         .backgroundColor {
+           background-color: #f0f0f0; /* Light gray background */
+         }
+      <style>
+    <head>
+    <catalogTemplate> class="backgroundColor">
       <banner>
         <title>SCBC Television</title>
       </banner>
