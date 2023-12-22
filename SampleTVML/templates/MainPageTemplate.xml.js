@@ -12,20 +12,20 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
   <document>
     <catalogTemplate>
       <banner>
-        <title>Highlights</title>
+        <title>SCBC Television</title>
       </banner>
       <list>
         <section>
       <listItemLockup>
-        <title>Inspiration Videos</title>
+        <title>LIVE</title>
         <decorationLabel>13</decorationLabel>
             //1. add from here
         <relatedContent>
           <grid>
             <section>
                   //2
-          <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
-            <img src="${this.BASEURL}images/ray.png" width="500" height="308" />
+          <lockup videoURL="https://cdn.scbcmedia.com/scbctelevision/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist.m3u8">
+            <img src="${this.BASEURL}images/scbcthumb.png" width="500" height="308" />
           </lockup>
           <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
             <img src="${this.BASEURL}images/ryan.png" width="500" height="308" />
@@ -145,6 +145,3 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
     </catalogTemplate>
   </document>`
 }
-
-
-
