@@ -151,5 +151,25 @@ var Template = function() {
         </section>
       </list>
     </catalogTemplate>
+        <collectionList>
+          <shelf>
+            <header>
+              <title>Program Guide</title>
+            </header>
+            <section>`;
+
+    // Dynamic EPG content
+    epgData.forEach(function(program) {
+        tvmlString += `<lockup>
+                         <title>${program.title}</title>
+                         <description>${program.description}</description>
+                       </lockup>`;
+    });
+
+    // Close EPG Section
+    tvmlString += `   </section>
+                  </shelf>
+                </collectionList>
+              </stackTemplate>    
   </document>`
 }
