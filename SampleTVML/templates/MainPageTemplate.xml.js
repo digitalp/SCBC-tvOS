@@ -26,7 +26,7 @@ var Template = function() {
         <section>
       <listItemLockup>
         <title>LIVE</title>
-        <decorationLabel>13</decorationLabel>
+        <decorationLabel>2</decorationLabel>
             //1. add from here
         <relatedContent>
           <grid>
@@ -36,9 +36,6 @@ var Template = function() {
             <img src="${this.BASEURL}images/scbcthumb.png" width="500" height="308" />
             <title>SCBC Television</title>
           </lockup>
-          <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
-            <img src="${this.BASEURL}images/ryan.png" width="500" height="308" />
-          </lockup>
         </section>
           </grid>
         </relatedContent>
@@ -46,20 +43,14 @@ var Template = function() {
   
         <listItemLockup>
           <title>Originals</title>
-          <decorationLabel>3</decorationLabel>
+          <decorationLabel>1</decorationLabel>
               //1. add from here
           <relatedContent>
             <grid>
               <section>
                     //2
                       <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
-                        <img src="${this.BASEURL}images/kim.png" width="500" height="308" />
-                      </lockup>
-                          <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
-                        <img src="${this.BASEURL}images/tammy.png" width="500" height="308" />
-                      </lockup>
-                      <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
-                        <img src="${this.BASEURL}images/saul.png" width="500" height="308" />
+                        <img src="${this.BASEURL}images/scbcthumb.png" width="500" height="308" />
                       </lockup>
   
           </section>
@@ -68,24 +59,15 @@ var Template = function() {
         </listItemLockup>
   
           <listItemLockup>
-            <title>Educational Videos</title>
-            <decorationLabel>4</decorationLabel>
+            <title>Local Movies</title>
+            <decorationLabel>1</decorationLabel>
                 //1. add from here
             <relatedContent>
               <grid>
                 <section>
                       //2
                       <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
-                        <img src="${this.BASEURL}images/cesare.png" width="500" height="308" />
-                      </lockup>
-                      <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
-                        <img src="${this.BASEURL}images/ellen.png" width="500" height="308" />
-                      </lockup>
-                      <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
-                        <img src="${this.BASEURL}images/jake.png" width="500" height="308" />
-                      </lockup>
-                      <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
-                        <img src="${this.BASEURL}images/kim.png" width="500" height="308" />
+                        <img src="${this.BASEURL}images/scbcthumb.png" width="500" height="308" />
                       </lockup>
     
             </section>
@@ -94,8 +76,8 @@ var Template = function() {
           </listItemLockup>
   
             <listItemLockup>
-              <title>Anime Videos</title>
-              <decorationLabel>3</decorationLabel>
+              <title>Anime Local Series</title>
+              <decorationLabel>1</decorationLabel>
                   //1. add from here
               <relatedContent>
                 <grid>
@@ -103,12 +85,6 @@ var Template = function() {
                         //2
                                   <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
                                     <img src="${this.BASEURL}images/vicki.png" width="500" height="308" />
-                                  </lockup>
-                                      <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
-                                    <img src="${this.BASEURL}images/alexis.png" width="500" height="308" />
-                                      </lockup>
-                                  <lockup videoURL="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8">
-                                    <img src="${this.BASEURL}images/marin.png" width="500" height="308" />
                                   </lockup>
       
               </section>
