@@ -76,7 +76,7 @@ var Template = function() {
           </listItemLockup>
   
             <listItemLockup>
-              <title>Anime Local Series</title>
+              <title>Local Series</title>
               <decorationLabel>1</decorationLabel>
                   //1. add from here
               <relatedContent>
