@@ -14,7 +14,7 @@ var Template = function() {
       <head>
         <style>
           .backgroundStyle {
-            background-image: url('${this.BASEURL}images/SCBC-Background-FullHD13.png');
+            background-image: url('${this.BASEURL}images/SCBC-Background-FullHD8.png');
             background-size: cover;
             background-position: center;
           }
