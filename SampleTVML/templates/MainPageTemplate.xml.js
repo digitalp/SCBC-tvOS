@@ -22,7 +22,7 @@ var Template = function() {
       </head>
       <catalogTemplate class="backgroundStyle">
           <background>
-              <img src="${this.BASEURL}images/SCBC-Background-FullHD13.png"/>
+              <img src="${this.BASEURL}images/SCBC-Background-FullHD8.png"/>
           </background>
         <banner>
         <title>SCBC Television</title>
